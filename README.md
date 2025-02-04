@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SuianeHenrichs1/form-interativo/blob/master/assets/video-cadastro.gif" alt="Demonstrando o Projeto" width="900">
+  <img src="https://github.com/LucasRibeiro73/Forms-Interativo/blob/main/assets/video-cadastro.gif" alt="Demonstrando o Projeto" width="900">
 </p>
 
 <p align="center">
